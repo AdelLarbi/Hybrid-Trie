@@ -4,7 +4,11 @@
     "debugType": "portable",
     "emitEntryPoint": true
   },
-  "dependencies": {},
+  "dependencies": {
+    "NUnit": "3.6.0",
+    "dotnet-test-nunit": "3.4.0-beta-3"
+  },
+  "testRunner": "nunit",
   "frameworks": {
     "netcoreapp1.1": {
       "dependencies": {

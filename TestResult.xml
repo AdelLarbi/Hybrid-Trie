@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="0" testcasecount="3" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="3" result="Passed" portable-engine-version="3.3.0.0" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.403792">
+  <test-run id="0" testcasecount="3" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="3" result="Passed" portable-engine-version="3.3.0.0" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.253568">
+    <test-suite type="Assembly" id="1004" name="HybridTrie.dll" fullname="/home/adel/Programing/CS/HybridTrie/bin/Debug/netcoreapp1.1/HybridTrie.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.216936" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+      <environment framework-version="3.6.0.0" clr-version=".NET Core 4.6.24628.01" os-version="Linux 3.13.0-107-generic #154-Ubuntu SMP Tue Dec 20 09:57:27 UTC 2016" cwd="/home/adel/Programing/CS/HybridTrie" machine-name="Adel-X550CL" culture="en-GB" uiculture="en-GB" os-architecture="X64" />
+      <settings>
+        <setting name="WorkDirectory" value="/home/adel/Programing/CS/HybridTrie" />
+      </settings>
+      <test-suite type="TestSuite" id="1005" name="test" fullname="test" runstate="Runnable" testcasecount="3" result="Passed" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.205557" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <test-suite type="TestSuite" id="1006" name="HybridTrieTests" fullname="test.HybridTrieTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.205067" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <test-suite type="TestFixture" id="1000" name="HybridTrieTests" fullname="test.HybridTrieTests.HybridTrieTests" classname="test.HybridTrieTests.HybridTrieTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.199970" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+            <test-case id="1001" name="TestCase_1" fullname="test.HybridTrieTests.HybridTrieTests.TestCase_1" methodname="TestCase_1" classname="test.HybridTrieTests.HybridTrieTests" runstate="Runnable" seed="1794117896" result="Passed" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.020685" asserts="1" />
+            <test-case id="1002" name="TestCase_2" fullname="test.HybridTrieTests.HybridTrieTests.TestCase_2" methodname="TestCase_2" classname="test.HybridTrieTests.HybridTrieTests" runstate="Runnable" seed="355904709" result="Passed" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.000384" asserts="1" />
+            <test-case id="1003" name="TestCase_3" fullname="test.HybridTrieTests.HybridTrieTests.TestCase_3" methodname="TestCase_3" classname="test.HybridTrieTests.HybridTrieTests" runstate="Runnable" seed="1870568186" result="Passed" start-time="2017-01-18 05:04:07Z" end-time="2017-01-18 05:04:07Z" duration="0.000269" asserts="1" />
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-run>
+</test-run>
