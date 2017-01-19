@@ -30,7 +30,7 @@ namespace src.HybridTrie.Tools
 
         public void Close()
         {
-            var message = "\nClosing the file." + "\nIt can be found in : " + filePath
+            var message = "\nClosing the file." + "\nGenerated and saved : " + filePath
             + "\nUse the following command to open it: xdot " + fileName
             + "\nIf xdot is not found, you can install it with this command: sudo apt install xdot";
 
